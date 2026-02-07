@@ -1,0 +1,110 @@
+{
+  "player": {
+    "name": "Player Name",
+    "firstName": "Player",
+    "lastName": "Name",
+    "position": "Goalkeeper",
+    "club": "Club / School",
+    "number": "1",
+    "classYear": "2026",
+    "height": "6'1\"",
+    "weight": "175 lbs",
+    "hometown": "Lancaster, PA",
+    "bio": "Short intro line about the player and key strengths. A dynamic goalkeeper with elite shot-stopping ability and commanding presence in the box.",
+    "heroImage": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?w=1600&q=80",
+    "heroImagePosition": "top",
+    "headshot": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&q=80",
+    "schoolLogo": "",
+    "clubLogo": "",
+    "contact": {
+      "email": "player@email.com",
+      "phone": "123-456-7890",
+      "twitter": "",
+      "instagram": "",
+      "hudl": "",
+      "tiktok": "",
+      "youtube": "",
+      "coach": "Coach Name",
+      "coachEmail": "coach@email.com",
+      "coachPhone": "123-456-7890"
+    },
+    "academics": {
+      "gpa": "3.9",
+      "sat": "1450",
+      "act": "",
+      "classRank": "Top 10%",
+      "honors": ["National Honor Society", "Dean's List", "AP Scholar"],
+      "school": "School Name",
+      "gradYear": "2026",
+      "intendedMajor": "Business Administration"
+    },
+    "stats": {
+      "gamesPlayed": "48",
+      "cleanSheets": "22",
+      "savePercentage": "84%",
+      "goalsAgainst": "0.75 GAA"
+    },
+    "awards": [
+      { "year": "2025", "title": "PIAA District 3 AA Champion", "body": "Starter — 5 clean sheets in tournament run", "type": "soccer" },
+      { "year": "2025", "title": "All-State First Team", "body": "Selected among top GKs in Pennsylvania", "type": "soccer" },
+      { "year": "2024", "title": "All-Conference Goalkeeper", "body": "Goalkeeper of the Year", "type": "soccer" },
+      { "year": "2024", "title": "Academic Honor Roll", "body": "GPA 3.9 — All four semesters", "type": "academic" },
+      { "year": "2023", "title": "JV MVP", "body": "Led team to undefeated season", "type": "soccer" }
+    ],
+    "events": [
+      {
+        "name": "Jefferson Cup",
+        "type": "Tournament",
+        "date": "2026-03-14",
+        "location": "Richmond, VA",
+        "description": "Premier spring showcase tournament — competing with U18 team.",
+        "url": ""
+      },
+      {
+        "name": "ECNL National Showcase",
+        "type": "Showcase",
+        "date": "2026-04-10",
+        "location": "Phoenix, AZ",
+        "description": "National showcase event with 200+ college coaches in attendance.",
+        "url": ""
+      },
+      {
+        "name": "GK Elite Camp",
+        "type": "Camp",
+        "date": "2026-06-15",
+        "location": "State College, PA",
+        "description": "Invitation-only goalkeeper training camp.",
+        "url": ""
+      }
+    ],
+    "schedule": [
+      { "date": "2026-02-20", "opponent": "Opponent FC", "competition": "League", "location": "Home", "time": "7:00 PM", "result": "—" },
+      { "date": "2026-02-27", "opponent": "Rival FC", "competition": "Cup", "location": "Away", "time": "5:00 PM", "result": "W 2-0" },
+      { "date": "2026-03-06", "opponent": "Academy SC", "competition": "League", "location": "Home", "time": "7:00 PM", "result": "—" },
+      { "date": "2026-03-13", "opponent": "United FC", "competition": "League", "location": "Away", "time": "6:00 PM", "result": "—" }
+    ],
+    "highlights": [
+      {
+        "title": "Penalty save vs Rival FC",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2025-10-12",
+        "tags": ["shot-stopping", "penalty"],
+        "thumb": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?w=800&q=80"
+      },
+      {
+        "title": "Distribution reel — Fall 2025",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2025-09-01",
+        "tags": ["distribution", "passing"],
+        "thumb": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=800&q=80"
+      },
+      {
+        "title": "Full game film vs Academy SC",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2025-11-05",
+        "tags": ["full game", "shot-stopping"],
+        "thumb": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80"
+      }
+    ]
+  }
+}
